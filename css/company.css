@@ -1,0 +1,52 @@
+
+
+  body {
+    background-color: #b0e2ff;
+    color: #333;
+  }
+
+  .container {
+    margin-top: 50px;
+  }
+
+  .btn-primary {
+    border-radius: 5px;
+    padding: 10px 20px;
+  }
+
+  .btn-success {
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: #28a745; /* Green color */
+    color: #fff;
+  }
+
+  .table {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .box1 {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .table th,
+  .table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .btn-success,
+  .btn-danger {
+    margin: 2px;
+  }
+  
+  .add-button {
+    text-align: right;
+    margin-bottom: 10px;
+  }

@@ -1,0 +1,53 @@
+  body {
+    background-color: #87ceeb; /* Sky blue background color */
+  }
+
+  .container {
+    margin-top: 50px;
+  }
+
+  #e_form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left; /* Align form content to the left */
+  }
+
+  #e_form h1 {
+    margin-bottom: 20px;
+    color: #333333;
+  }
+
+  #e_error {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .mb-3 {
+    margin-bottom: 20px;
+    text-align: left; /* Align labels and inputs to the left */
+  }
+
+  .form-label {
+    font-weight: bold;
+    color: #333333;
+  }
+
+  .form-control {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    background-color: #ffff99; /* Yellow background for text boxes */
+  }
+
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+  }
+
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+
