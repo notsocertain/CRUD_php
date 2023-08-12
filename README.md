@@ -3,15 +3,15 @@ A simple employee company management system to implement CRUD functionality in p
 
 Problem Statement:
 Create a database table called Company with the following fields:
-- Id
-- Company name
-- Address
+    - Id
+    - Company name
+    - Address
 Create a database table called Employee, with the following fields:
-- Id
-- Name
-- Salary
-- Date of Birth
-- Company
+    - Id
+    - Name
+    - Salary
+    - Date of Birth
+    - Company
 Create the following PHP page:
 - CRUD operations for “company”
 - CRUD operations for “employee”
